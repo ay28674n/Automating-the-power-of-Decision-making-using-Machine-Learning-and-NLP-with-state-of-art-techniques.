@@ -30,3 +30,5 @@ Here The Donor Choose provided us the Dataset which can be directly downloaded f
 DonorsChoose.org Application Screening | Kaggle
 
 To know about dataset we need to know about each and every parameter.
+
+SO i have used here NLP Techniques like(W2V,AVGW2V,TFIDF,TFIDFW2V and BOW)
